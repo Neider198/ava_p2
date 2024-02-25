@@ -1,0 +1,1 @@
+ proyecto Implementación de un modelo de I+D+I para gestionar y fortalecer la calidad de la educación básica y media del departamento del Chocó
